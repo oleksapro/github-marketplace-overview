@@ -1,3 +1,5 @@
+[![codecov](https://codecov.io/gh/oleksapro/github-marketplace-overview/graph/badge.svg?token=I21EYFAT9Q)](https://codecov.io/gh/oleksapro/github-marketplace-overview)
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
