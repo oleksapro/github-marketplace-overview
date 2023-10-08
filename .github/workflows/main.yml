@@ -8,7 +8,7 @@ jobs:
     name: Test JS frontend
     defaults:
       run:
-        working-directory: ./web
+        working-directory: ./src
     steps:
       - uses: actions/checkout@v1
       - uses: actions/setup-node@v2
