@@ -1,6 +1,5 @@
 # [Codecov](https://codecov.io) Typescript Example
-[![codecov](https://codecov.io/github/codecov/example-typescript/branch/main/graph/badge.svg?token=FS6DflFMtf)](https://app.codecov.io/github/codecov/example-typescript)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-typescript.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-typescript?ref=badge_shield)
+[![codecov](https://codecov.io/gh/oleksapro/github-marketplace-overview/graph/badge.svg?token=I21EYFAT9Q)](https://codecov.io/gh/oleksapro/github-marketplace-overview)
 
 This example repository shows how Codecov can be integrated with a simple typescript project. It uses **GitHub Actions** and **CircleCI** as CI/CD providers and **jest** as the coverage provider.
 
