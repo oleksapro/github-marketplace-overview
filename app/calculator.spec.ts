@@ -3,6 +3,7 @@ import {
   subtract,
   multiply,
   divide,
+  pow,
 } from './calculator'
 
 test('add function', () => {
@@ -38,10 +39,6 @@ test('divide function', () => {
   // expect(divide(2.0, 0)).toBe('Cannot divide by 0');
 });
 
-test('divide function1', () => {
-  expect(divide(1, 2)).toBe(0.5);
-  expect(divide(1.0, 2.0)).toBe(0.5);
-  expect(divide(0, 2.0)).toBe(0);
-  expect(divide(-4, 2.0)).toBe(-2.0);
-  // expect(divide(2.0, 0)).toBe('Cannot divide by 0');
+test('pow function', () => {
+  expect(pow(2, 2)).toBe(4);
 });
