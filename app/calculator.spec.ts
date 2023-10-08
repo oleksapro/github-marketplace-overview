@@ -41,5 +41,5 @@ test('divide function', () => {
 
 test('pow function', () => {
   expect(pow(2, 2)).toBe(4);
-  expect(pow(3, 3)).toBe(9);
+  expect(pow(3, 3)).toBe(27);
 });
